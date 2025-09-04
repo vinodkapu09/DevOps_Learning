@@ -1,2 +1,1 @@
-# DevOps_learning
-DevOps_Learning
+This is the start of my DevOps Learning Journey.
